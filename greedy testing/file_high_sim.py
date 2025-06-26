@@ -1,0 +1,1 @@
+def process(x): return x * 3

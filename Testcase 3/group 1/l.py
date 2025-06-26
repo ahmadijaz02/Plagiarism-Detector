@@ -1,0 +1,1 @@
+def proc(y): return y * 3

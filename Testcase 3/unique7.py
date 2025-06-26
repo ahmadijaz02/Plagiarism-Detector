@@ -1,0 +1,1 @@
+def func7(x): return x + 7

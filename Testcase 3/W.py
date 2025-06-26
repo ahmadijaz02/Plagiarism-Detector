@@ -1,0 +1,1 @@
+def unique9(x): return x ** 9

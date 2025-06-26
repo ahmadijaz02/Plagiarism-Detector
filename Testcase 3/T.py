@@ -1,0 +1,1 @@
+def unique6(x): return x ** 6

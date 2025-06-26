@@ -1,0 +1,1 @@
+def unique4(x): return x ** 4

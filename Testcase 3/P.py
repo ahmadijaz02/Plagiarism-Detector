@@ -1,0 +1,1 @@
+def unique2(x): return x ** 2

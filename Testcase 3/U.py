@@ -1,0 +1,1 @@
+def unique7(x): return x ** 7
